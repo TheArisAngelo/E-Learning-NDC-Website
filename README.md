@@ -7,3 +7,8 @@ Backend Integration: Adding a backend to store user data, progress, and login cr
 Responsive Design: Improving the layout to ensure it works seamlessly on all devices.
 
 ![image](https://github.com/user-attachments/assets/0bbb04d7-e350-4db9-a4d3-e27e25199b5b)
+
+![image](https://github.com/user-attachments/assets/961f75f4-14ca-4f0f-a867-e3fa4a6429e9)
+
+![image](https://github.com/user-attachments/assets/f19cd0d4-a5e8-4e51-83e2-8e360ff2112f)
+
